@@ -1,4 +1,4 @@
-mapboxgl.accessToken = // your token here
+mapboxgl.accessToken = 'pk.eyJ1Ijoia2F0ZWx5bm1ob3BwZXIiLCJhIjoiY2wwcHptNHQyMWplNDNqdGsxb3JuZWVqMCJ9.tNvD3VVmZ7yrIdaLWBy1kA'
 var map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/navigation-day-v1',
